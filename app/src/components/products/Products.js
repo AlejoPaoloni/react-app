@@ -13,8 +13,6 @@ const Products = () => {
         <h3>{product.name} - {product.brand}</h3>
         <br/>
         <h4>ARS ${product.price}</h4>
-        <br/>
-        <button className="view-details">Ver detalles</button>
         <button className="buy" onClick={()=> addProduct (product)}>Comprar</button>
       </div>
     );

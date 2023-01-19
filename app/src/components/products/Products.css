@@ -37,18 +37,6 @@
     font-size: 15px;
 }
 
-.view-details {
-    border: none;
-    border-radius: 20px;
-    outline: 0;
-    padding: 10px;
-    color: black;
-    text-align: center;
-    cursor: pointer;
-    width: 30%;
-    font-size: 15px;
-}
-
 .card button:hover {
     opacity: 0.7;
 }
