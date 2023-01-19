@@ -1,0 +1,13 @@
+import "./Footer.css"
+
+const Footer = () => {
+  return (
+    <footer className="footer">
+        <div>
+            <h4>©️ 2022 Mauri Sport - TODOS LOS DERECHOS RESERVADOS.</h4>
+        </div>
+    </footer>
+  )
+}
+
+export default Footer;
