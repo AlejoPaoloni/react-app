@@ -1,7 +1,54 @@
 .footer {
-    background-color: black;
-    height: 10vw;
+    background-color: rgb(25, 23, 23);
+    height: 12.5vw;
+    position: absolute;
+    padding: 3rem;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10rem;
+}
+
+.footer-description {
+    font-size: 1rem;
+    color: white;
+}
+
+.copyright {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.redes {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+}
+
+.redes a {
+    display: flex;
+    margin: 0.6rem;
+    font-size: 35px;
+}
+
+.redes a:hover {
+    color: white;
+    transition: all 0.3s;
+}
+
+.facebook {
+    color: rgb(53, 53, 255);
+}
+
+.instagram {
+    color: rgb(200, 0, 200);
+}
+
+@media screen and (max-width: 450px) {
+    .footer h4 {
+        font-size: 12px;
+    }
 }

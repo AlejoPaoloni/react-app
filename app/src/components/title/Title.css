@@ -1,0 +1,47 @@
+.banner {
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://www.palco23.com/files/2020/19_redaccion/equipamiento/base/tienda-base-948.jpg");
+    min-height: 100vh; 
+}
+
+.banner-container {
+    text-align: center;
+    padding: 15% 0;
+}
+
+.banner h1 {
+    margin: 0;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    font-size: 55px;
+}
+
+.banner p {
+    font-size: 25px;
+    color: white;
+    opacity: 0.7;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+@media screen and (max-width: 450px) {
+    .banner h1 {
+        font-size: 50px;
+    }
+    
+    .banner p {
+        font-size: 20px;
+    }
+
+    .subtitle {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 890px) {
+    .banner p {
+        opacity: 1;
+    }
+}

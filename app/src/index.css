@@ -8,5 +8,12 @@
 }
 
 body {
-  background-color: rgba(199, 199, 199, 0.603);
+  background-image: linear-gradient(rgba(181, 181, 181, 0.799), rgba(181, 180, 180, 0.784)), url("https://www.palco23.com/files/2020/19_redaccion/equipamiento/base/tienda-base-948.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  position: relative;
+  padding-bottom: 9.7rem;
+  min-height: 100vh;
 }

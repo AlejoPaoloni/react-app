@@ -1,22 +1,21 @@
-import { useContext } from "react";
-import { dataContext } from "../context/DataContext.js";
+import ButtonCategories from "../buttonCategories/ButtonCategories.js";
+import ListProducts from "../listProducts/ListProducts.js";
 
 import "./Products.css";
 
-const Products = () => {
-  const { data, addProduct } = useContext(dataContext);
 
-  return data.map((product)=> {
+const Products = (props) => {
+
     return (
-      <div className="card" key={product.id}>
-        <img src={product.img} alt="img-product-card" />
-        <h3>{product.name} - {product.brand}</h3>
-        <br/>
-        <h4>ARS ${product.price}</h4>
-        <button className="buy" onClick={()=> addProduct (product)}>Comprar</button>
-      </div>
+      <>
+      <title>Mauri Sport | Productos</title>
+      <h2 className="subtitle">{props.greeting}</h2>
+        <ButtonCategories />
+        <section className="card-products-container">
+          <ListProducts />
+        </section>
+      </>
     );
-  });
 };
 
 export default Products;

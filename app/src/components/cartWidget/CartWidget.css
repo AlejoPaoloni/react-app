@@ -5,11 +5,11 @@
     margin: 30px;
     margin-left: 8rem;
     margin-right: 8rem;
-    background-color: black;
+    background-color: rgb(25, 23, 23);
     padding: 1rem;
     border-radius: 20px;
 }
-  
+
 .cart-content > img {
     height: 140px;
     width: 140px;
@@ -20,21 +20,63 @@
     border: 2px solid #efb506;
 }
 
-.name-brand, 
-.price {
+.name-brand,
+.price-cart {
     color: white;
-    margin-top: 30px;
+    margin-top: 40px;
+    font-size: 20px;
 }
-  
+
 .cart-total {
     text-align: center;
     padding: 1rem;
     margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
-  
-.cart-msj {
-    text-align: center;
+
+.cart-total-item {
     margin-top: 40px;
+    background-color: rgb(25, 23, 23);
+    color: white;
+    padding: 0.8rem;
+    border-radius: 20px;
+    border: 2px solid #efb506;
+    width: max-content;
+    font-size: 20px;
+}
+
+.cart-total-buy {
+    margin: 1rem 0;
+    font-size: 20px;
+    display: flex;
+    border-radius: 20px;
+    border: 2px solid #efb506;
+    padding: 0.8rem;
+    background-color: rgb(25, 23, 23);
+    color: #efb506;
+}
+
+.cart-total-buy:hover {
+    background-color: #efb506;
+    color: rgb(25, 23, 23);
+    border: 2px solid rgb(25, 23, 23);
+    transition: all 0.3s;
+}
+
+.cart-msj {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(25, 23, 23);
+    color: white;
+    width: fit-content;
+    margin: 2.5rem auto;
+    padding: 0.8rem;
+    border-radius: 20px;
+    border: 2px solid #efb506;
 }
 
 .cart-delete-button {
@@ -47,6 +89,26 @@
     padding: 1rem;
     margin-top: 30px;
     cursor: pointer;
-    font-size: 1.3rem;
-    background-color: black;
+    font-size: 2rem;
+    color: red;
+    background-color: rgb(25, 23, 23);
+}
+
+.add-products {
+    text-decoration: none;
+    color: black;
+    background-color: #efb506;
+    padding: 0.5rem;
+    font-size: 20px;
+    border-bottom: 2px solid rgb(25, 23, 23);
+    border-right: 2px solid rgb(25, 23, 23);
+    border-bottom-right-radius: 20px;
+}
+
+.add-products:hover {
+    color: #efb506;
+    background-color: rgb(25, 23, 23);
+    transition: all 0.3s;
+    border-bottom: 2px solid #efb506;
+    border-right: 2px solid #efb506;
 }

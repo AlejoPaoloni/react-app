@@ -1,0 +1,34 @@
+.card-container-about {
+    margin: 4rem 7rem;
+    padding: 1.2rem;
+    background-color: rgb(25, 23, 23);
+}
+
+.card-img {
+    width: 100%;
+    height: 100%;
+}
+
+.card-text {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+
+.ubication {
+    text-decoration: none;
+    margin-left: 5px;
+    padding: 5px 8px;
+    color: rgb(25, 23, 23);
+    background-color: #efb506;
+    border-radius: 20px;
+    font-size: 14px;
+}
+
+.ubication:hover {
+    color: rgb(25, 23, 23);
+    background-color: white;
+    transition: all 0.3s;
+}

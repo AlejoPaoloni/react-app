@@ -4,7 +4,13 @@
     border-radius: 50%;
     font-size: 12px;
     padding: 4px;
-    top: 45px;
-    right: 43px;
+    top: 35px;
+    right: 40px;
     position: absolute;
+}
+
+@media screen and (max-width: 890px) {
+    .cart-counter {
+        top: 355px;
+    }
 }

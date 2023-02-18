@@ -3,8 +3,10 @@
         "id": 1,
         "brand": "Adidas",
         "name": "Camiseta Titular Argentina 3 Estrellas 2022",
+        "description": "100% Argentina. Diseñada para los hinchas, ofrece comodidad en todo momento gracias a su tejido suave con tecnología de absorción AEROREADY. Los detalles en la parte interior trasera del cuello están inspirados en la bandera nacional que los jugadores representan con tanto orgullo. Un producto hecho parcialmente con contenido reciclado generado a partir de desechos de producción, tales como recortes de tela, y desechos domésticos postconsumo, para evitar un mayor impacto ambiental al producir contenido virgen.",
         "price": 23.999,
         "quanty": 1,
+        "category": "Indumentaria",
         "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/02f90f6570a148c1a136af7300dc1ac4_9366/Camiseta_titular_Argentina_3_estrellas_2022_Blanco_IB3593_21_model.jpg",
         "stock": 8
     },
@@ -12,8 +14,10 @@
         "id": 2,
         "brand": "Adidas",
         "name": "Campera Reversible Anthem Argentina",
+        "description":"De titular o suplente. Mostrá tu amor por la selección. Diseñada para ser vista en el escenario más importante del fútbol, esta campera adidas reversible luce los colores titular de Argentina en el exterior y el estampado de camiseta visitante en el interior. Sin importar cómo la usés, su diseño con escudo en ambos lados te permite mostrar siempre tu amor por el club. Hecho con materiales 100 % reciclados, este producto representa solo una de nuestras soluciones para ayudar a acabar con los residuos plásticos.",
         "price": 32.999,
         "quanty": 1,
+        "category": "Indumentaria",
         "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/21ba039d5b5448a9ae84aed701115bcd_9366/Campera_Reversible_Anthem_Argentina_Azul_HF3948_21_model.jpg",
         "stock": 4
     },
@@ -21,8 +25,10 @@
         "id": 3,
         "brand": "Adidas",
         "name": "Pantalón de Viaje Argentina Game Day",
+        "description": "32 equipos soñando con un solo destino. En su búsqueda por triunfar, los jugadores de Argentina visten pantalones deportivos adidas como estos mientras viajan a los estadios donde se lleva a cabo el máximo torneo del fútbol mundial. El ajuste ceñido y las piernas cónicas te permiten moverte con fluidez en los momentos más intensos. Tanto los jugadores como los hinchas estarán deseando que el escudo impreso tenga una estrella adicional cuando el equipo regrese a casa. Este producto, hecho con una serie de materiales reciclados y al menos 60 % de contenido reciclado, representa solo una de nuestras soluciones para acabar con los residuos plásticos.",
         "price": 25.999,
         "quanty": 1,
+        "category": "Indumentaria",
         "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/1642dcf706704ccab2b3aef500c60724_9366/Pantalon_de_Viaje_Argentina_Game_Day_Blanco_IC4448_21_model.jpg",
         "stock": 5
     },
@@ -30,8 +36,10 @@
         "id": 4,
         "brand": "Adidas",
         "name": "Zapatillas Ultraboost DNA x Argentina",
+        "description": "Celebrá uno de los mayores eventos deportivos del mundo con las Ultraboost x Argentina. Estas zapatillas combinan el mítico estilo de nuestros botines clásicos con un diseño perfecto para tu día a día. adidas BOOST proporciona un increíble retorno de energía y una pisada más cómoda de la mañana a la noche. La parte superior contiene al menos un 50% de materiales reciclados. Su objetivo es plantear otra solución más que ayude a eliminar los residuos plásticos.",
         "price": 52.999,
         "quanty": 1,
+        "category": "Calzado",
         "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/c0ba54141cd7478a85e9aea80187b896_9366/Zapatillas_Ultraboost_DNA_x_Argentina_Azul_GW7267_01_standard.jpg",
         "stock": 8
     },
@@ -39,8 +47,10 @@
         "id": 5,
         "brand": "Adidas",
         "name": "Camiseta Prepartido Selección Argentina",
+        "description": "Calentá con estilo. Una fusión de los clásicos colores de suplente y la energía de los 90, esta es la camiseta que usan los jugadores de Argentina antes del silbato inicial. La tecnología AEROREADY absorbe la humedad para mantener su piel seca y cómoda en cada movimiento en la cancha. Luce el escudo del club tejido en el pecho para destacar lo que sentís por el equipo. Hecho con materiales 100% reciclados, este producto representa solo una de nuestras soluciones para acabar con los residuos plásticos.",
         "price": 20.999,
         "quanty": 1,
+        "category": "Indumentaria",
         "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/20fa90326f3c4bdebab0aee700974298_9366/Camiseta_Prepartido_Seleccion_Argentina_Azul_HG7233_21_model.jpg",
         "stock": 5
     },
@@ -48,9 +58,77 @@
         "id": 6,
         "brand": "Adidas",
         "name": "Buzo de Entrenamiento Argentina",
+        "description": "Para los mejores equipos de fútbol, el campo de entrenamiento trae los premios más grandes al alcance. Por eso los jugadores de Argentina no dejan que los días fríos les frene y visten buzos de entrenamiento adidas similares a este para jóvenes. Las aberturas para los pulgares en los puños te permiten maximizar la cobertura al caer la temperatura. La tecnología de absorción de humedad AEROREADY se encarga de mantener tu piel seca en todo momento. Hecho con materiales 100% reciclados, este producto representa solo una de nuestras soluciones para acabar con los residuos plásticos.",
         "price": 21.999,
         "quanty": 1,
+        "category": "Indumentaria",
         "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/084c91f92c9849f8a531ae80007ce9ae_9366/Buzo_de_Entrenamiento_Argentina_Tiro_23_Azul_HF3918_01_laydown.jpg",
+        "stock": 6
+    },
+    {
+        "id": 7,
+        "brand": "Adidas",
+        "name": "Pelota Al Rihla Pro",
+        "description": "Al Rihla significa 'El Viaje', la pelota es solo el comienzo. El resto de tu historia futbolística aún no está escrito. Con estampados inspirados en la pelota oficial de la Copa Mundial de la FIFA™, esta pelota adidas Al Rihla League es perfecta para partidos y sesiones de entrenamiento. Su estructura TSBE sin costuras te garantiza toques más precisos y la cámara de butilo se encarga de mantenerla inflada por más tiempo.",
+        "price": 54.999,
+        "quanty": 1,
+        "category": "Accesorios",
+        "img": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw5533fb3b/products/AD_H57783/AD_H57783-1.JPG",
+        "stock": 5
+    },
+    {
+        "id": 8,
+        "brand": "Nike",
+        "name": "Zapatillas Air Zoom Rival Fly 3",
+        "description": "Si lo que estás buscando es velocidad, tus momentos de running ya tienen la solución: Las Zapatillas Nike Air Zoom Rival Fly 3 están hechas para la comodidad y contención del pie en tus momentos de carrera mientras que la unidad Zoom Air brinda la agilidad necesaria para acercarte a la meta. La espuma de este calzado crea amortiguación para cada uno de tus aterrizajes, haciendo que el confort sea el elemento clave de este calzado. La goma de la suela, genera la tracción necesaria para mantenerte segura a la vez que el mesh con el que están hechas es flexible y da frescura a tus pies. No hay más nada para pensar, estas son las zapatillas que estabas buscando.",
+        "price": 39.999,
+        "quanty": 1,
+        "category": "Calzado",
+        "img": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw52849363/products/NI_CT2405-514/NI_CT2405-514-1.JPG",
+        "stock": 6
+    },
+    {
+        "id": 9,
+        "brand": " Converse",
+        "name": "Zapatillas Chuck Taylor All Star Lift Ox",
+        "description": "Las Zapatillas Converse Chuck Taylor All Star Lift son un clásico que no puede faltar en tu ropero. Su diseño moderno es ideal para lucir hasta en las salidas menos planeadas gracias a su capellada de lona resistente y una plataforma digna de Converse.",
+        "price": 28.599,
+        "quanty": 1,
+        "category": "Calzado",
+        "img": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw68b9f74f/products/CO_166585C/CO_166585C-1.JPG",
+        "stock": 4
+    },
+    {
+        "id": 10,
+        "brand": "Puma",
+        "name": "Gorra Essentials",
+        "description": "La gorra Puma Essentials posee un diseño básico y casual fácil de combinar para salir a la calle o para ir a entrenar. Su construcción de algodón con seis paneles se ajusta perfecto en tu cabeza, mientras que los orificios brindan una mayor ventilación para expulsar la humedad y el sudor.",
+        "price": 5.499,
+        "quanty": 1,
+        "category": "Accesorios",
+        "img": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw846d4d63/products/PU_052919-09/PU_052919-09-1.JPG",
+        "stock": 3
+    },
+    {
+        "id": 11,
+        "brand": "Wilson",
+        "name": "Mochila Wilson Advantage ll",
+        "description": "Llevá todo lo que necesitas para tus partidos de Tenis en la Mochila Wilson Advantage ll. Utiliza el compartimento central con cierres para transportar hasta 2 raquetas y un segundo compartimento para guardar tu toalla, ropa de entrenamiento o todo lo que necesites. Los pequeños bolsillos laterales y uno frontal para accesorios o artículos personales.",
+        "price": 21.349,
+        "quanty": 1,
+        "category": "Accesorios",
+        "img": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwea04dcef/products/WL_WR8016103001/WL_WR8016103001-1.JPG",
+        "stock": 4
+    },
+    {
+        "id": 12,
+        "brand": "Molten",
+        "name": "Pelota Basquet BG2000",
+        "description": "Pelota de Basquet Molen. Con su confección certificada por la FIBA, esta pelota es ideal para practicar el deporte como un profesional.",
+        "price": 11.649,
+        "quanty": 1,
+        "category": "Accesorios",
+        "img": "https://www.digitalsport.com.ar/files/products/60244814534c1-548540-500x500.jpg",
         "stock": 6
     }
 ]
